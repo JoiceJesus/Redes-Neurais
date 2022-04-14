@@ -1,2 +1,2 @@
-# Deep-Learning
-este repositório tem como objetivo uma fazer uma introdução básica aos conceitos de Redes Neurais.
+# Redes Neurais
+Este repositório tem como objetivo fazer uma introdução básica aos conceitos de Redes Neurais.
